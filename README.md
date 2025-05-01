@@ -4,11 +4,10 @@
 
 <!--About myself!-->
 <p>
-  - 🔭 I’m currently working on <b>Web development, java, python, tkinter.</b> <br>
-- 🌱 I’m currently learning <b>JavaScript, PHP, React.js, Node.js</b> <br>
+  - 🔭 I’m currently working on <b>Web development, java, tkinter.</b> <br>
 - 👨‍💻 Volunteer <b>@IEEE_CS</b> <br>
 - 👯 I’m looking to collaborate with any <b> Progressive </b> organization. <br>
-- 💬 Ask me about <b>Python, java, word press </b><br>
+- 💬  <b> java, word press, React, Angular </b><br>
 - 📫 Reach me at: <b> waleedwali03@gmail.com </b> <br>
 </p>
 
